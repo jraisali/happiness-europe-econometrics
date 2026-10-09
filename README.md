@@ -1,6 +1,3 @@
-# happiness-europe-econometrics
-Econometric analysis of the relationship between leisure spending and happiness across EU countries.
-
 # Leisure Spending & Happiness in Europe
 
 Econometrics project studying the relationship between **household spending on leisure and culture and happiness across European Union countries**.
